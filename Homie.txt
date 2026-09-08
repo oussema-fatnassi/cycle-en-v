@@ -1,0 +1,29 @@
+HOMIE : smart home products
+
+- Thermostats:
+    read and set temperature
+    schedule temperature
+    remote control
+    different modes (confort, eco, off)
+    wi-fi conenctivity
+    geofencing
+    energy monitoring
+    alerts (low battery, sensor offline)
+    scenario integration
+
+- Windows coverings, blinds, shutters
+    open/close
+    groups
+    schedule
+    obstacle detection
+    alerts
+    scenario integration
+
+
+- Lights
+- Outlets
+- Switches
+- Camera
+- Doorbells
+- Locks
+- Sensors

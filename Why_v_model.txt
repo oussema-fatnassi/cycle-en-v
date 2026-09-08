@@ -1,0 +1,22 @@
+1 
+This project is a software (that we are gonna build) linked with a hardware (the clients product), the different sensors, accessories, items.
+This is important because it is really important to have something precise, robust from the beginning since when a device is installed, its more difficult to do some changes
+
+This is why the V model is the best thing for this project, because when we start with a robust, solid foundation and a clear vision of what the product is, we dont need
+constant changes and integration as it is for the agile.
+
+The decision of what the clients wants must be made at the beginning of the project, made only once, so the costs can remain contained. This gives us less flexibility but
+have a more robust product at the end
+
+For this reason in the general design phase we can write all the architectural design decision before starting to implement anything
+
+2
+For this kind of project the security aspect is really important, since if a sensor is not working correctly and we dont have a feedback, this could cause a break-in, fire, privacy leak..
+For this reason its really imporant to cover with tests each aspect of the product. Test that even if offline the sensors work...
+
+This is the reason why the V model is what we need since each feature/Requirement is tightly coupled with the test. So thanks to the cahier de test we can prove the tests we defined
+
+3
+All the documentation that we are gonna to write to do the different tests are gonna help us a tracability/proof about our work since now with the different types of regulations (RGPD, EU laws) is really important to have this
+For this reason the V model is usefull instead of agile, since all the documentation is done in the beginning and not as a last thing of a project (often done when we use Agile)
+
